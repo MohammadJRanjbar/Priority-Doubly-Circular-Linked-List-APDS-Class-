@@ -118,8 +118,6 @@ This function displays informations of a student in a beautiful way like below.
   std::cout << student << std::endl;
   ```
   
-<img src="Pics/meme2.jpg" width="400" class="center" />
-  
 #  APDS Class
 This class represents our exclusive data structure, AP Data Structure. We have reached to the conclusion that it's better to be a **Priority Doubly Circular Linked List** with some changes for the sake of AP of course! 
 
