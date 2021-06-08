@@ -1,6 +1,6 @@
 # Priority-Doubly-Circular-Linked-List-APDS-Class-
 #  Introduction
-This was a homework for dr.jahanshahi's Advanced Programming course and mr Amini (https://github.com/M-H-Amini) designed this homework
+This was a homework for dr.jahanshahi's Advanced Programming course designed by Mr. Amini (https://github.com/M-H-Amini).
 
 In this exciting homework, you're going to implement a special **data structure** for the AP course. We've decided to have a second midterm exam, but due to the limits of resources, unfortunately, it isn't possible to take the exam from all the students. So we need to select only a few of our dear students to take the exam. We need a data structure to select students and we think you are the best people on earth to implement it. Technically speaking, we need a **priority doubly circular linked list** data structure and we're going to specialize it for our course. Let's do it.
 
